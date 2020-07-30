@@ -1,0 +1,12 @@
+SIM-LKP Dainfo
+1. Fitur 
+   Manajemen Profile
+   Manajemen Sapras
+   Manajemen insruktur
+   Manajemen peserta
+   Manajemen Keuangan
+   Manajemen Lulusan
+   Manajemen akun
+   Formulir Pendaftaran
+   Manajemen Transaksi Kursus
+   Manajemen Laporan
